@@ -1,0 +1,15 @@
+{
+  "name": "Grandmama's Recipes",
+  "short_name": "Recipes",
+  "description": "Grandmama's recipe box — browse, search and scale the family recipes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#120f1a",
+  "theme_color": "#120f1a",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
